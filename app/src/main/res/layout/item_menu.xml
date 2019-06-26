@@ -15,8 +15,8 @@
             android:layout_gravity="center"
             android:id="@+id/img_menu"
             android:src="@drawable/pmb"
-            android:layout_width="70dp"
-            android:layout_height="70dp" />
+            android:layout_width="80dp"
+            android:layout_height="80dp" />
 
         <TextView
             android:id="@+id/tv_judul_menu"
